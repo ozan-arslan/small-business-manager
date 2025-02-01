@@ -1,0 +1,2 @@
+All objects will have a property that records the creation date. Use Date.now(). Create a warning pop-up that asks the program will use 
+the local time if the computer is not connected to internet. Have an option for "don't ask again".

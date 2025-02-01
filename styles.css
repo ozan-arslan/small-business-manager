@@ -1,0 +1,32 @@
+/* index.html Styles */
+
+.main-menu {
+  margin-top: 2vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  background-color: lightgray;
+  cursor: pointer;
+  width: 12vw;
+  font-size: 1.2rem;
+}
+
+.page-margin-top {
+  margin-top: 2vh;
+}
+
+/* General Styles */
+/* Revenue Styles */
+/* Expenses Styles */
+/* Net Income Styles */
+/* Products and Services Styles */
+
+.ast {
+    background-color: blueviolet;
+}
+
+/* Graphs Styles */
+/* Calendar Styles */
+/* Settings Styles */
